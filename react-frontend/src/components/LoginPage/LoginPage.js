@@ -266,7 +266,7 @@ const LoginPage = (props) => {
             </div>
             <div className="mt-7">
               <Button
-                label="Test"
+                label="Sign in"
                 className="w-full !rounded-full py-3 text-[16px] bg-primary text-white border-none focus:ring-transparent focus:outline-none shadow-none hover:border-none"
                 onClick={login}
                 loading={loading}
